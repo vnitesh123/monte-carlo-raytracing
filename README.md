@@ -93,8 +93,9 @@ Choose the scene that need to be rendered
 
 Scene - 1 without texture mapping
 
-![Alt text](./results/Scene1_With_Sampling.png?raw=true "result")
+<img src="./results/Scene1_With_Sampling.png?raw=true" alt="result" width="450">
+
 
 Scene - 2 with texture mapping on the walls
 
-![Alt text](./results/scene2_with_sampling.png?raw=true "result")
+<img src="./results/Scene2_With_Sampling.png?raw=true" alt="result" width="450">
