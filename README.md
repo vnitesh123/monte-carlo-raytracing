@@ -98,4 +98,4 @@ Scene - 1 without texture mapping
 
 Scene - 2 with texture mapping on the walls
 
-<img src="./results/Scene2_With_Sampling.png?raw=true" alt="result" width="450">
+<img src="./results/scene2_with_sampling.png?raw=true" alt="result" width="450">
