@@ -1,7 +1,7 @@
 #include<map>
 #include<string>
-#include "IntersectionInfo.h"
-#include "stb_image.h"
+#include "IntersectionInfo.hpp"
+#include "stb_image.hpp"
 
 using namespace std;
 

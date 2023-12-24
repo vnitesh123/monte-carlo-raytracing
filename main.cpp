@@ -1,13 +1,13 @@
-#include "image.h"
-#include "camera.h"
-#include "scene.h"
-#include "ray_vector.h"
+#include "image.hpp"
+#include "camera.hpp"
+#include "scene.hpp"
+#include "ray_vector.hpp"
 #include<iostream>
 #include <random>
 #include <omp.h>
 
 #define STB_IMAGE_IMPLEMENTATION
-#include "stb_image.h"
+#include "stb_image.hpp"
 #include<vector>
 #include <GL/glew.h>
 #define GLFW_INCLUDE_NONE

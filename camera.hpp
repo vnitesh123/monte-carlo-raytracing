@@ -1,7 +1,7 @@
 #include<iostream>
 #include<vector>
 #include<math.h>
-#include "ray_vector.h"
+#include "ray_vector.hpp"
 
 class camera{
 

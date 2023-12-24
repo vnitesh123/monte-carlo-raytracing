@@ -1,7 +1,7 @@
 #ifndef IntersectionInfo_H
 #define IntersectionInfo_H
 
-#include "ray_vector.h"
+#include "ray_vector.hpp"
 #include<iostream>
 #include<vector>
 #include<math.h>

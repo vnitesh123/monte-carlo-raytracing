@@ -1,4 +1,4 @@
-#include "surface.h"
+#include "surface.hpp"
 #include <glm/glm.hpp>
 
 using namespace std;
@@ -95,8 +95,8 @@ void load_scene_two( vector<Surface*> &surfaces, Surface* &light_source){
     glm::vec3 ground_point = glm::vec3(1.0f,-1.0f,1.0f);
     glm::vec3 ground_normal = glm::vec3(0.0f,1.0f,0.0f);
     ground_normal = unit_vector(ground_normal);
-    const char* imagepath1 = "images/image1.png";
-    const char* imagepath2 = "images/image2.png";
+    const char* imagepath1 = "textures/image1.png";
+    const char* imagepath2 = "textures/image2.png";
     
     // UV axes for different planes
     glm::vec3 tex_u1 = glm::vec3(0.0f,0.0f,1.0f);

@@ -3,8 +3,8 @@
 #include<vector>
 #include<math.h>
 #include<string>
-#include "ray_vector.h"
-#include "IntersectionInfo.h"
+#include "ray_vector.hpp"
+#include "IntersectionInfo.hpp"
 //#include "stb/stb_image_write.h"
 
 class image{
